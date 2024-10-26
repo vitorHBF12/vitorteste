@@ -1,4 +1,4 @@
-### Codigo de Fibonacci
+### Codigo de Fibonacci Python
 def fibonacci(n):
     a, b = 0, 1
     while a <= n:
